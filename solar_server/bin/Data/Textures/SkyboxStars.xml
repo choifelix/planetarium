@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="purplenebula_lf.dds" />
+    <face name="purplenebula_rt.dds" />
+    <face name="purplenebula_up.dds" />
+    <face name="purplenebula_dn.dds" />
+    <face name="purplenebula_ft.dds" />
+    <face name="purplenebula_bk.dds" />
+    <quality low="0" />
+</cubemap>
