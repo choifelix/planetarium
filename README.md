@@ -1,3 +1,6 @@
+Projet par Félix CHOI et Thomas KNIEBIHLER en JUIN 2019
+original work on gitlab : https://gitlab.com/felixchoi/planetarium
+
 Pour utiliser le client il faut tapper :
 
 ./client \<ip-pc1>  \<ip-pc2>  \<ip-pc3>  \<ip-pc4>  \<ip-pc5>
